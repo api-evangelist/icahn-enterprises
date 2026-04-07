@@ -1,7 +1,11 @@
 aid: icahn-enterprises
-url: https://raw.githubusercontent.com/api-evangelist/icahn-enterprises/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/icahn-enterprises/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.icahn-enterprises.com
+description: >-
+  Icahn Enterprises is a diversified holding company engaged in investment, energy,
+  automotive, food packaging, real estate, home fashion, and pharmaceuticals businesses.
