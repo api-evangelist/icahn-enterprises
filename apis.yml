@@ -27,6 +27,14 @@ tags:
   - Holding Company
   - Investment
   - Pharmaceuticals
+  - Real-Estate
+tags_raw:
+  - Automotive
+  - Energy
+  - Fortune 500
+  - Holding Company
+  - Investment
+  - Pharmaceuticals
   - Real Estate
 url: >-
   https://raw.githubusercontent.com/api-evangelist/icahn-enterprises/refs/heads/main/apis.yml
