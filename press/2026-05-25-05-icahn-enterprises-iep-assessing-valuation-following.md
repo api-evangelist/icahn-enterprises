@@ -1,7 +1,9 @@
 ---
 title: 'Icahn Enterprises (IEP): Assessing Valuation Following ...'
 url: https://finance.yahoo.com/news/icahn-enterprises-iep-assessing-valuation-031635620.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Icahn Enterprises" press release artificial intelligence'
 position: 5
 source: serpapi-google

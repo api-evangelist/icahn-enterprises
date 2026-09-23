@@ -1,7 +1,9 @@
 ---
 title: Carl Icahn (@Carl_C_Icahn) / Posts / X
 url: https://x.com/Carl_C_Icahn
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Icahn Enterprises" press release artificial intelligence'
 position: 3
 source: serpapi-google

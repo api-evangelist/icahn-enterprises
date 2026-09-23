@@ -1,7 +1,9 @@
 ---
 title: Icahn Enterprises L.P. Announces Management Changes
 url: https://www.prnewswire.com/news-releases/icahn-enterprises-lp-announces-management-changes-302764089.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Icahn Enterprises" press release artificial intelligence'
 position: 1
 source: serpapi-google
